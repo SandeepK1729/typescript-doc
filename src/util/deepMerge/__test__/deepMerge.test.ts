@@ -1,6 +1,6 @@
 import { describe, it, expect } from 'vitest';
 
-import DeepPartial from '@/types/deep-partial';
+import DeepPartial from '@/types/deep-partial/deep-partial';
 import deepMerge from '../deepMerge';
 
 
