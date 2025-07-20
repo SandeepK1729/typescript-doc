@@ -1,0 +1,28 @@
+{
+  "name": "typescript-doc",
+  "version": "1.0.0",
+  "description": "It will contain typescript learning features",
+  "main": "index.ts",
+  "scripts": {
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SandeepK1729/typescript-doc.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "SandeepK1729",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SandeepK1729/typescript-doc/issues"
+  },
+  "homepage": "https://github.com/SandeepK1729/typescript-doc#readme",
+  "devDependencies": {
+    "path": "^0.12.7",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3",
+    "vitest": "^3.2.4"
+  }
+}
